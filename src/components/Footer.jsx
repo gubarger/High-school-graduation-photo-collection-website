@@ -32,7 +32,7 @@ function Footer() {
                         href="https://drive.google.com/drive/folders/1u-v_5-88a--eB35GOUII4akBkUPLilxB?usp=sharing" 
                         target="_blank" 
                         rel="noopener noreferrer"
-                        className="rounded-xl bg-slate-800 border border-slate-700 text-amber-400 font-bold px-3 py-1.5 md:px-4 md:py-2 text-[11px] md:text-sm shadow-lg hover:bg-zinc-700 hover:scale-105 transition-all duration-200 text-center flex-grow md:flex-grow-0"
+                        className="rounded-xl bg-slate-800 border border-slate-700 text-white font-bold px-3 py-1.5 md:px-4 md:py-2 text-[11px] md:text-sm shadow-lg hover:bg-zinc-700 hover:scale-105 transition-all duration-200 text-center flex-grow md:flex-grow-0"
                     >
                         Google disc
                     </a>
@@ -40,7 +40,7 @@ function Footer() {
                         href="https://sites.google.com/view/liminalwebsite65and/paintings?pli=1&authuser=0" 
                         target="_blank" 
                         rel="noopener noreferrer"
-                        className="rounded-xl bg-slate-800 border border-slate-700 text-amber-400 font-bold px-3 py-1.5 md:px-4 md:py-2 text-[11px] md:text-sm shadow-lg hover:bg-zinc-700 hover:scale-105 transition-all duration-200 text-center flex-grow md:flex-grow-0"
+                        className="rounded-xl bg-slate-800 border border-slate-700 text-white font-bold px-3 py-1.5 md:px-4 md:py-2 text-[11px] md:text-sm shadow-lg hover:bg-zinc-700 hover:scale-105 transition-all duration-200 text-center flex-grow md:flex-grow-0"
                     >
                         LiMiNal
                     </a>
