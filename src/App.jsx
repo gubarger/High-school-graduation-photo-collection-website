@@ -29,7 +29,7 @@ function AnimatedRoutes() {
 
 function App() {
     return (
-        <HashRouter basename="/High-school-graduation-photo-collection-website">
+        <HashRouter>
             <AnimatedRoutes />
         </HashRouter>
     );
