@@ -25,7 +25,7 @@ function QuotesPage() {
         {
             id: 2,
             text: "Carpe diem",
-            author: "Миша",
+            author: "Максимов Миша",
             border: "border-l-purple-500 shadow-purple-500/5"
         },
     ];
