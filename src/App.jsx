@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, useLocation } from 'react-router-dom';
 
 import { AnimatePresence } from 'framer-motion';
 
@@ -29,9 +29,9 @@ function AnimatedRoutes() {
 
 function App() {
     return (
-        <BrowserRouter basename="/High-school-graduation-photo-collection-website">
+        <HashRouter basename="/High-school-graduation-photo-collection-website">
             <AnimatedRoutes />
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
