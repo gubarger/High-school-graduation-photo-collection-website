@@ -22,6 +22,12 @@ function QuotesPage() {
             author: "Кирилл",
             border: "border-l-blue-500 shadow-blue-500/5"
         },
+        {
+            id: 2,
+            text: "Carpe diem",
+            author: "Миша",
+            border: "border-l-purple-500 shadow-purple-500/5"
+        },
     ];
 
     return (
