@@ -23,12 +23,14 @@ function AboutClassPage() {
     const students = [
         {
             id: 1,
-            name: "Кирилл",
-            bio: "Крутой",
-            subject: "Математика",
-            future: "Инженер графических программ",
+            name: "Погорелов Кирилл",
+            bio: "Футбол, география, экономика, инвестиции, криптовалюта, политика, технологии",
+            subject: "Экономика, География",
+            future: "Свободный предприниматель",
             photos: [
-                "https://lh3.googleusercontent.com/d/1nOx7-tplavXEj1R59YlUg5thReMBDat0",
+                "https://lh3.googleusercontent.com/d/1-HsluMyaOdUFUEusLDM4Tz9WDPiG3HeD",
+                "https://lh3.googleusercontent.com/d/1XrEmf2JpOuf8ibyMcncodfk0s5WLLO2v",
+                "https://lh3.googleusercontent.com/d/1aTKsB-SMvw_AlnwBskY51jndJ0UzXPYv",
             ]
         },
     ];
