@@ -5,7 +5,8 @@ function Navbar() {
         { text: 'Классные фотки', url: '/photos' },
         { text: 'Цитаты и пожелания', url: '/quotes' },
         { text: 'О выпускниках', url: '/about' },
-        { text: 'Творчество', url: '/creation' }
+        { text: 'О учителях', url: '/teachers' },
+        { text: 'Творчество', url: '/creation' },
     ];
 
     return (

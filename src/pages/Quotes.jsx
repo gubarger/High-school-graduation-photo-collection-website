@@ -31,6 +31,12 @@ function QuotesPage() {
             author: "Погорелов Кирилл",
             border: "border-l-orange-500 shadow-orange-500/5"
         },
+        {
+            id: 3,
+            text: "Цените себя и свои силы - не распыляйтесь попусту!",
+            author: "Алёна Сергеевна",
+            border: "border-l-green-500 shadow-green-500/5"
+        },
     ];
 
     return (

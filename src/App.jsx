@@ -7,6 +7,7 @@ import HomePage from './pages/Home';
 import PhotosPage from './pages/ClassPhoto';
 import QuotesPage from './pages/Quotes';
 import AboutClassPage from './pages/AboutClass';
+import AboutTeachersPage from './pages/AboutTeachers';
 import CreationPage from './pages/Creation';
 
 function AnimatedRoutes() {
@@ -20,6 +21,7 @@ function AnimatedRoutes() {
                     <Route path="photos" element={<PhotosPage />} />
                     <Route path="quotes" element={<QuotesPage />} />
                     <Route path="about" element={<AboutClassPage />} />
+                    <Route path="teachers" element={<AboutTeachersPage />} />
                     <Route path="creation" element={<CreationPage />} />
                 </Route>
             </Routes>
